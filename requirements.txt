@@ -1,0 +1,6 @@
+discord.py==1.7.3
+selenium==3.141.0
+ipdb==0.13.9
+google-cloud-dialogflow==2.0.0
+mysql-connector-python==8.0.31
+scrapy==2.8.0

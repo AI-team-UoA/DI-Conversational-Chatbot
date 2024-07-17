@@ -1,0 +1,132 @@
+Hello
+
+Goodbye
+
+Που βρίσκεται το πανεπιστήμιο
+Where is the location of the university?
+
+Περισσότερες πληροφορίες για τα μαθήματα που μπορώ να βρω;
+Where can i find more information about the courses?
+
+Ποιο είναι το site της σχολής;
+What is the site of the university?
+
+Ποιο είναι το πρόγραμμα σπουδών;
+What is the curriculum?
+
+help
+help?
+-------------------------------------------------
+Ποια μαθήματα είναι υποχρεωτικά;
+Which courses are compulsory?
+
+Ποια μαθήματα είναι επιλογής;
+Which courses are optional?
+
+Ποια μαθήματα είναι Κατ’επιλογήν υποχρεωτικά;
+Which courses are track compulsory courses?
+
+Τι είναι τα Κατ’επιλογήν υποχρεωτικά
+What does it mean 'track compulsory courses'
+
+Ποια μαθηματα είναι προαιρετικά ειδίκευσης;
+Which courses are elective specialization courses?
+
+Ποια μαθήματα είναι γενικής παιδείας;
+Which courses are general education?
+
+Ποια μαθήματα είναι Project;
+Which courses are project?
+
+Έχουμε πρακτική/πτυχιακή;
+Do we have Thesis or Internship?
+
+Ποια εργαστήρια είναι αυτοτελή προαιρετικά;
+Which courses are optional laboratory courses?
+
+Υπάρχουν εργασίες που η ημερομηνία τους δεν έχει λήξει;
+Is there any assignment that it hasn't been expired?
+
+Υπάρχουν πρόσφατες ανακοινώσεις;
+Is there recent announcements?
+
+Ποια είναι τα στοιχεία επικοινωνίας της γραμματείας;
+What are the contact information of the secretariat?
+
+Πόσα ects χρειάζομαι συνολικά για να πάρω πτυχίο;
+How many ects should I collect in order to graduate?
+
+Πόσα μαθήματα χρειάζομαι συνολικά για να πάρω πτυχίο;
+How many courses should I pass in order to graduate?
+
+Πόσο είναι ο μέσος όρος βαθμού μου;
+What is my average grade?
+
+ωρολογιο προγραμμα – προγραμμα εξεταστικης
+Where can I find the course & exam schedule?
+
+
+Per course.. (ξεκιναει με 'θελω να μαθω πληροφοριες για το μαθημα "αναλυση 1"')
+
+Ποιος είναι ο βαθμός μου;
+What is my grade?
+
+Πόσα ects έχει;
+How many ects?
+
+Ποιος διδάσκει;
+Who is the teacher?
+
+Είναι υποχρεωτικό;
+Is it obligatory?
+
+Είναι επιλογής;
+Is it optional?
+
+Είναι Κατ’επιλογήν υποχρεωτικό;
+Is it track compulsory?
+
+Είναι προαιρετικό ειδίκευσης?
+Is it elective specialization?
+
+Είναι γενικής παιδείας;
+Is it general education?
+
+Είναι Project;
+Is it project?
+
+Είναι αυτοτελή προαιρετικό εργαστήριο;
+Is it optional laboratory?
+
+Έχει κάποια εργασία που λήγει;
+Is there any assignment that hasn't been expired?
+
+Έχει κάποια πρόσφατη ανακοίνωση;
+Is there any recent announcement?
+
+Ποια είναι η περιγραφή του μαθήματος;
+What is the course content?
+
+Περισσότερες πληροφορίες για τα μαθήματα που μπορω να βρω;
+Where can i find more information about the courses?
+
+Εχει υποχρεωτικο προαπαιτουμενο μαθημα;
+Does it have required course?
+
+Αποτελεί υποχρεωτικο προαπαιτούμενο μαθημα;
+Is it required for other courses?
+
+Εχει συνιστώμενο προαπαιτουμενο μαθημα;
+Does it have recommended course?
+
+Αποτελεί συνιστώμενο προαπαιτούμενο μαθημα;
+Is it recommended for other courses?
+
+
+Per teacher.. (ξεκιναει με 'θελω να μαθω πληροφοριες για τον καθηγητη "Αλεξ Δελής 1"')
+
+Ποια είναι τα στοιχεία επικοινωνιας του;
+What are his contact information?
+
+Ποια μαθηματα διδασκει;
+What courses does he teach?

@@ -1,0 +1,18 @@
+Steps to add a Cron Job on Ubuntu.
+
+1. Run crontab -e
+2. Type the following command.
+
+*/60 */24 */1 * * cd /home/myrto/Desktop/Di_Bot_2023/eclass_crawler/crawler && /home/myrto/.local/bin/scrapy crawl eclass -o announcements_data.json > /dev/null 2>&1 && /usr/bin/python3 write-eclass-announcements-to-database.py && rm /home/myrto/Desktop/Di_Bot_2023/eclass_crawler/crawler/announcements_data.json 
+
+3. Save the file (esc + :wq)
+
+4. Check if the cron job run.
+
+tail -f /var/log/syslog | grep CRON 
+
+
+
+
+Jobs:
+*/30 */23 */1 * *   -- At every 30th minute past every 23rd hour on every day-of-month.
